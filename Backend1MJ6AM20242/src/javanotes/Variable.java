@@ -25,7 +25,7 @@ public class Variable {
         //parseo de Variable
 
         int newNum2= Integer.parseInt(num2);
-        
+
         float promedio = (num1 + newNum2)/ 2;
 
         System.out.println(promedio);

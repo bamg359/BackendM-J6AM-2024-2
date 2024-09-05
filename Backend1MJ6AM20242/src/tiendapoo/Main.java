@@ -7,10 +7,15 @@ public class Main {
 
         Product product = new Product();
 
+        Costumer costumer = new Costumer();
+
+
         //product.createProduct();
 
-        product.productName = "Pan de queso";
-        System.out.println(product.productName);
+        //product.productName = "Pan de queso";
+        //System.out.println(product.productName);
+
+        costumer.createUser();
 
     }
 
